@@ -1,0 +1,12 @@
+AI Coding Guide for AR To-Do App (ReactJS, Expo-Based, Apple Design Principles)
+
+Your task is to generate high-quality, well-structured, and maintainable ReactJS (Expo-based) code for the AR To-Do application, following these strict coding principles:
+
+Deep Code Analysis: Before adding any new feature, deeply analyze existing code to prevent property errors and inconsistencies.
+No Code Repetition: Write clean, reusable, and modular code to avoid redundancy.
+Semantic & Functional Coding: Implement features with a functional and semantic approach to ensure clarity and maintainability.
+Apple-Inspired UI/UX: Follow Apple’s design principles for a smooth, animated, and aesthetically pleasing user interface.
+Non-Destructive Updates: When adding new code, ensure that existing functionalities remain intact and unbroken.
+Language Consistency: The entire system must be in Turkish, including UI elements, error messages, and logs.
+Systematic Problem-Solving: Address issues in a structured and in-depth manner, ensuring optimal performance and scalability.
+Ensure that all generated code strictly adheres to these principles. If any deviation occurs, correct it before finalizing the code.
