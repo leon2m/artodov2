@@ -35,8 +35,7 @@
             }
           }
         }
-      ],
-      "@react-native-firebase/app"
+      ]
     ],
     "experiments": {
       "typedRoutes": true
